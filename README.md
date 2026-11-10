@@ -48,7 +48,7 @@ Turns building-management I/O point lists into router and I/O card distributions
 <tr>
 <td width="50%" valign="top">
 <a href="projects/deger/"><img src="assets/projects/deger/cover.svg" alt="Değer" width="100%"></a>
-<br><b><a href="projects/deger/">Değer</a></b> · iOS/Android · Web<br>
+<br><b><a href="projects/deger/">Değer</a></b> · iOS · Web<br>
 Shows whether savings in Türkiye really gained purchasing power: nominal vs. inflation-adjusted returns from official data sources. Built on one canonical calculation engine.<br>
 <img src="assets/brand/status/in-development.svg" alt="Status: In development" height="22">
 </td>

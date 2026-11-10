@@ -4,7 +4,7 @@
 
 <img src="../../assets/brand/status/in-development.svg" alt="Status: In development" height="22">
 
-**Category:** Mobile Applications · **Platform:** iOS/Android (Expo / React Native) · Web (Next.js) · **Period:** Sep 2026 – present · **Source code:** private
+**Category:** Mobile Applications · **Platform:** iOS (Expo / React Native) · Web (Next.js) · **Period:** Sep 2026 – present · **Source code:** private
 
 > Shows people in Türkiye whether their savings really gained purchasing power. It separates nominal growth from inflation-adjusted (real) return, using official data sources and one canonical calculation engine.
 
@@ -70,7 +70,7 @@ Değer is a **personal finance information tool, not investment advice**. It is 
 ## Technologies
 
 - **Language:** TypeScript across all packages
-- **Apps:** Expo / React Native with Expo Router (mobile); Next.js and React (web)
+- **Apps:** Expo / React Native with Expo Router (mobile; iOS is the only validated mobile target, and an Android release is not planned); Next.js and React (web)
 - **Backend:** server API package; Supabase client for authentication and persistence
 - **Testing:** Vitest (engine, adapters, persistence, web, API, contracts) and Jest (mobile), plus ESLint, type-checking, a secret scan and an Expo export check
 - **CI:** GitHub Actions, with pinned action versions, read-only permissions and no secrets in CI
