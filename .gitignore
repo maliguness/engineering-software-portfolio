@@ -1,0 +1,5 @@
+# Never publish: internal working notes and profile draft (separate repo)
+_internal/
+_profile/
+.DS_Store
+.claude/
